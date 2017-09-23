@@ -1,9 +1,12 @@
 # Adventures in Biking
 Pics from locations, which make biking more challenging than necessary.
 
-Inspired by this witty world wide example http://wcc.crankfoot.xyz/facility-of-the-month/index.htm
+Inspired by this witty world wide example from England http://wcc.crankfoot.xyz/facility-of-the-month/index.htm
 
-The workflow: Biker takes a pic, adds pithy caption, sends to the website "Adventures in Biking". The pic is reviewed and posted to the map based on the pic metadata (location it has been taken at) and in the list with categories: date, address, neighborhood (optional, but nice), name of submitting person.
+## The workflow
+
+Biker takes a pic, adds pithy caption, sends to the website "Adventures in Biking". The pic is reviewed and posted to the map based on the pic metadata (location it has been taken at) and in the list with categories: date, address, neighborhood (optional, but nice), name of submitting person.
+
 
 ## The Team
 
