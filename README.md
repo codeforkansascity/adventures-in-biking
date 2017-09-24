@@ -12,7 +12,7 @@ Biker takes a pic, adds pithy caption, sends to the website "Adventures in Bikin
 
 * Jason Devore (developer)
 * Kelly Lawrence (design, development)
-* Juan Vargas (developer)
+* John Vargas (developer)
 * Oleh Kovalchuke (UX designer)
 * David LaCrone 
 * Code for KC contributors: (see [Contributors](https://github.com/codeforkansascity/adventures-in-biking/graphs/contributors))
