@@ -18,20 +18,19 @@
   </head>
   <body>
     
-    
     <!-- sidebar -->
-    <h1 class="display-3">Adventures<br> in Biking</h1>
-    <div class="clearfix">
+    <h1 class="display-3 clearfix">Adventures<br> in Biking</h1>
+    <div>
     <div class="btn-group" role="group" aria-label="Basic example">
-      <button type="button" class="btn btn-secondary">Left</button>
-      <button type="button" class="btn btn-secondary">Right</button>
+      <button type="button" class="btn btn-secondary">Date/Time</button>
+      <button type="button" class="btn btn-secondary">Location</button>
       </div><br>
       <img class="example" src="imgs/img-01.jpg" alt="user image of bike route" width="380px" height="270px;">
     </div>
     </div>
     
     <!-- map -->
-    <div id="mapid"></div>
+    <div class="clearfix" id="mapid"></div>
     <script>
       var mymap = L.map('mapid').setView([39.0810, -94.4810], 10);
       L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
@@ -41,5 +40,6 @@
       accessToken: 'pk.eyJ1Ijoia2VsbHl5eSIsImEiOiJjajd5NXY1bWoxYjMzMndvMGdoY3NvZm5rIn0.G6fRBXtfDH4xrWQlqRE7TA'
       }).addTo(mymap);
     </script>
+
   </body>
 </html>
